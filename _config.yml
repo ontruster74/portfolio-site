@@ -1,5 +1,5 @@
 title: Rig Freyr - Portfolio Site
-profile_img: /assets/img/logo.png
+profile_img: /assets/img/ProfilePic.PNG
 icon_img: /assets/img/logo.png
 
 name: "Rig Freyr"
@@ -8,8 +8,8 @@ job: "Full Stack Web Developer"
 phone_number: 202-424-0710
 address: Warrenton, OR, USA
 email: ontruster74@gmail.com
-linkedin_username: rigfreyr
-github_username: ontruster74
+linkedin_profile: https://linkedin.com/in/rigfreyr
+github_profile: https://github.com/ontruster74
 
 theme: jekyll-professional-resume
 
