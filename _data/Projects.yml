@@ -7,13 +7,14 @@ contents:
       - Built a React frontend framework for a Dungeons and Dragons character creator web app
       - Integrated the website with an external API that pulls character information from an external repository of game rules
       - "Technology Used: React, JavaScript"
-    image: "![]({{ '/assets/img/DnDDweller.PNG' | relative_url }})"
+      - "![Project Screenshot](/assets/img/DnDDweller.PNG)"
+
   - title: "Tracker by Turing ([GitHub Link](https://github.com/turingschool/tracker-crm-fe))"
     description: 
       - Contributed to an existing React web app that manages student job applications
       - Implemented bugfixes and integrated the Honeycomb.io external API for telemetry data analysis
       - "Technology Used: React, TypeScript"
-    image: "![]({{ '/assets/img/tracker.png' | relative_url }})"
+      - "![Project Screenshot](/assets/img/tracker.png)"
     
 
 
