@@ -2,18 +2,18 @@ subject: Projects
 listing-order: 5
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Hang In There API ([GitHub Link](https://github.com/ontruster74/hang-in-there-api-pair-project))"
+  - title: "DnD Dweller ([GitHub Link](https://github.com/jinman14/dndweller-fe))"
     description: 
-      - Built an internal API for manipulating a simple database of un-motivational poster data
-      - Created a suite of 11 fully tested endpoints covering basic CRUD functionality and sort/filter query requests
-      - "Technology Used: Ruby on Rails"
-    image: "![](https://private-user-images.githubusercontent.com/187740401/412622878-2cf07fe6-969a-4766-b620-3174190bd677.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg4MTM4OTgsIm5iZiI6MTc0ODgxMzU5OCwicGF0aCI6Ii8xODc3NDA0MDEvNDEyNjIyODc4LTJjZjA3ZmU2LTk2OWEtNDc2Ni1iNjIwLTMxNzQxOTBiZDY3Ny5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwMVQyMTMzMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNmE3M2Y5YzkzMzMyYjg5MzY1Mzg4NDI2YTVjMmIzYzYwY2E0MjEwNjZjNzEyOTA4ODExYzI1ZGRhMzJiMzM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FH_FPD6qb30PZzEwdinNciw-YjVnczbS-N00036QA0s)"
-  - title: "Little Shop ([GitHub Link](https://github.com/ontruster74/little-shop-fe-final-project))"
+      - Built a React frontend framework for a Dungeons and Dragons character creator web app
+      - Integrated the website with an external API that pulls character information from an external repository of game rules
+      - "Technology Used: React, JavaScript"
+    image: "![](/assets/img/DnDDweller.PNG)"
+  - title: "Tracker by Turing ([GitHub Link](https://github.com/turingschool/tracker-crm-fe))"
     description: 
-      - Took an existing online merchant site and added the ability to view promotional coupon data for said merchants
-      - Accessible content, clean styling, and CRUD functionality implemented via MVC design principles
-      - "Technology Used: Ruby on Rails, React"
-    image: "![](https://private-user-images.githubusercontent.com/187740401/421548641-b7fdf951-3564-448a-9f7a-0626763a1e5f.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg4MTM4NTcsIm5iZiI6MTc0ODgxMzU1NywicGF0aCI6Ii8xODc3NDA0MDEvNDIxNTQ4NjQxLWI3ZmRmOTUxLTM1NjQtNDQ4YS05ZjdhLTA2MjY3NjNhMWU1Zi5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwMVQyMTMyMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZTNhNWEyNjY5N2I3NGE1MWM1YWFhYTA3MTFkMDJlOTg3MGI4YjE1OWI1ZTdlMDFlMTY5MzIzOTA5MmMxMjQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._iPHhxnSK7KlG-bPU627QEUK5PIeTazUTAlzretiFKs)"
+      - Contributed to an existing React web app that manages student job applications
+      - Implemented bugfixes and integrated the Honeycomb.io external API for telemetry data analysis
+      - "Technology Used: React, TypeScript"
+    image: "![](/assets/img/tracker.png)"
     
 
 
